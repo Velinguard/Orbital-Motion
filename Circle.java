@@ -21,7 +21,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JSpinner;
 import javax.swing.Timer;
-<applet code="Circle.class" CodeBase="" width=2000 height=1000></applet>
+/*<applet code="Circle.class" CodeBase="" width=2000 height=1000></applet> */
 public class Circle extends JApplet implements KeyListener,ActionListener{
     public static int THEOX;
     public static int THEOY;
